@@ -1,0 +1,6 @@
+venv
+versions
+klaidu_analize.py
+klaidu_analize_gui.py
+klaidu_prognozavimo_modelis.joblib
+prognozuoti_klaidas.py
